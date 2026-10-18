@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 24" width="100" height="24" role="img" aria-label="CADZZ">
+  <g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter">
+    <path d="M14 2 H0 V22 H14"/>
+    <path d="M21 22 L28 2 L35 22 M23.45 15 H32.55"/>
+    <path d="M42 22 V2 H51 L56 12 L51 22 H42"/>
+  </g>
+  <g fill="none" stroke="#FF8A3D" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter">
+    <path d="M63 2 H77 L63 22 H77"/>
+    <path d="M84 2 H98 L84 22 H98"/>
+  </g>
+</svg>

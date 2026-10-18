@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Cadzz. AI automation, agents and infrastructure, built around your requirements.">
+  <rect width="1200" height="630" fill="#0A0A0A"/>
+  <rect x="80" y="80" width="1040" height="470" fill="none" stroke="#1E1E1E" stroke-width="1"/>
+
+  <g transform="translate(120, 150)">
+    <g fill="none" stroke="#FF8A3D" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M0 0 L20 20 L0 40" transform="translate(0,4)"/>
+      <path d="M0 0 L20 20 L0 40" transform="translate(24,4)"/>
+    </g>
+  </g>
+
+  <text x="120" y="330" fill="#F2F2F0" font-family="'General Sans','Inter',Arial,Helvetica,sans-serif" font-size="96" font-weight="600" letter-spacing="-2">Cadzz</text>
+
+  <text x="120" y="400" fill="#8A8A86" font-family="'Inter',Arial,Helvetica,sans-serif" font-size="30" font-weight="400">AI automation, agents and infrastructure,</text>
+  <text x="120" y="442" fill="#8A8A86" font-family="'Inter',Arial,Helvetica,sans-serif" font-size="30" font-weight="400">built around your requirements.</text>
+
+  <text x="120" y="512" fill="#6B6B66" font-family="'Inter',Arial,Helvetica,sans-serif" font-size="20" font-weight="500" letter-spacing="2">FORWARD DEPLOYED ENGINEERS</text>
+</svg>

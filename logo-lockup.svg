@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 48" width="190" height="48" role="img" aria-label="Cadzz">
+  <defs>
+    <linearGradient id="cadzz-lb-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1C1C1C"/>
+      <stop offset="0.55" stop-color="#101010"/>
+      <stop offset="1" stop-color="#080808"/>
+    </linearGradient>
+    <linearGradient id="cadzz-lb-fg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFA35C"/>
+      <stop offset="1" stop-color="#FF8A3D"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="47" height="47" rx="11" fill="url(#cadzz-lb-bg)"/>
+  <rect x="0.5" y="0.5" width="47" height="47" rx="11" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+  <g fill="none" stroke="url(#cadzz-lb-fg)" stroke-width="3.6" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M15 15 L23 24 L15 33"/>
+    <path d="M25 15 L33 24 L25 33"/>
+  </g>
+  <text x="60" y="33" fill="#F2F2F0" font-family="'General Sans','Inter',system-ui,Arial,Helvetica,sans-serif" font-size="27" font-weight="600" letter-spacing="-0.5">Cadzz</text>
+</svg>
